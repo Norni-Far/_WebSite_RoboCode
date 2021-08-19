@@ -1,0 +1,82 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  /*background-image: url(Image/Stars.jpg);*/
+  background-attachment: fixed;
+}
+
+#Div1 {
+  /* Главное фото страницы  */
+  margin-top: 5%;
+  width: 40%;
+  float: left;
+  text-align: center;
+}
+
+.maining {
+  width: 300px;
+  border-radius: 50%;
+}
+
+#Div2 {
+  /* Оглавление страницы */
+  margin-top: 20px;
+  width: 56%;
+  float: right;
+  text-align: center;
+  border: 4px double rgb(255, 255, 255);
+  background: rgba(0, 0, 0, 0.95);
+}
+
+.mainname {
+  color: snow;
+}
+
+#Div3 {
+  /*  Списоки */
+  color: snow;
+  width: 60%;
+  float: right;
+}
+#Div3 ul {
+  font-size: 20px;
+}
+
+#Div3 ul :hover {
+  color: rgb(14, 177, 14);
+}
+
+#Div4 {
+  width: 100%;
+  color: snow;
+  border: 4px double rgb(255, 255, 255);
+  background: rgba(0, 0, 0, 0.95);
+  padding: 10px;
+}
+
+#Div4 h4 {
+  display: flex;
+  width: 100%;
+}
+
+#Div5 {
+  margin-top: 5%;
+  color: snow;
+  width: 100%;
+  border: 4px double rgb(255, 255, 255);
+  background: rgba(0, 0, 0, 0.95);
+  padding: 10px;
+}
+
+footer {
+  width: 100%;
+  display: block;
+  text-align: center;
+  color: rgb(158, 158, 158);
+}
+
+footer :hover{
+    color: rgb(0, 0, 0);
+  }
