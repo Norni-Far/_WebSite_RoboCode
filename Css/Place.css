@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  /*background-image: url(Image/Stars.jpg);*/
+  background-image: url(https://img1.goodfon.ru/wallpaper/nbig/b/e8/kosmos-zvezdy-sozvezdiya-3465.jpg);
   background-attachment: fixed;
 }
 
@@ -27,7 +27,7 @@ body {
   float: right;
   text-align: center;
   border: 4px double rgb(255, 255, 255);
-  background: rgba(0, 0, 0, 0.95);
+  background: rgba(0, 0, 0, 0.5);
 }
 
 .mainname {
@@ -52,7 +52,7 @@ body {
   width: 100%;
   color: snow;
   border: 4px double rgb(255, 255, 255);
-  background: rgba(0, 0, 0, 0.95);
+  background: rgba(0, 0, 0, 0.5);
   padding: 10px;
 }
 
@@ -66,7 +66,7 @@ body {
   color: snow;
   width: 100%;
   border: 4px double rgb(255, 255, 255);
-  background: rgba(0, 0, 0, 0.95);
+  background: rgba(0, 0, 0, 0.5);
   padding: 10px;
 }
 
@@ -78,5 +78,5 @@ footer {
 }
 
 footer :hover{
-    color: rgb(0, 0, 0);
+    color: rgb(60, 255, 0);
   }
